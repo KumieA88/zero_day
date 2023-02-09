@@ -1,1 +1,1 @@
-*This* *is* *the* *zero_day* *project*# zero_day
+zero_day
